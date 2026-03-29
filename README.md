@@ -1,11 +1,8 @@
 # proc_sched
 
-proc_sched: Process scheduling algorithms (FCFS, SJF, RR, Priority).
-
-Single-file, zero-dependency Python CLI.
+proc_sched: Single-file Python CLI tool. Zero dependencies, Python 3.8+.
 
 ## Usage
-
 ```bash
-python3 proc_sched.py test
+python3 proc_sched.py --test
 ```
